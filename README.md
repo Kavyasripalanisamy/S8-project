@@ -1,4 +1,6 @@
-REAL TIME ANOMALY DETECTION USING WEARABLE SENSOR
+**REAL TIME ANOMALY DETECTION USING WEARABLE SENSOR**
+
+ 
  This project aims to develop a real-time anomaly prediction system utilizing wearable sensor data through machine learning techniques. Building upon our previous work in Parkinson's disease
 prediction from gait analysis using Hidden Markov Models (HMM), the current project focuses on extending the applicability of wearable sensor technology for early detection of anomalies in
 various contexts.
